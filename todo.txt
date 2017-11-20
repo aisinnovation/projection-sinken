@@ -1,0 +1,9 @@
+TODO list
+
+- add repo files
+
+- add meta libs
+
+- add sources
+
+
